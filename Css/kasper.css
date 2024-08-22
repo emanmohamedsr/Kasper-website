@@ -491,6 +491,7 @@ header .container nav .search {
 .design2 {
     width: 100%;
     position: relative;
+    overflow: hidden;
 }
 
 .design2::after {
@@ -763,7 +764,7 @@ header .container nav .search {
 .skills .skill-content .prog-holder .prog span::after {
     content: '';
     position: absolute;
-    top: -35%;
+    top: -40%;
     right: 0;
     transform: translateX(50%);
     border-style: solid;
