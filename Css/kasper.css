@@ -1129,7 +1129,7 @@ header .container nav .search {
     transform: translateX(-50%);
 }
 
-.scoial {
+.social {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -1138,7 +1138,7 @@ header .container nav .search {
     padding: 30px 0;
 }
 
-.scoial i {
+.social i {
     color: #fff;
 }
 
